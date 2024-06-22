@@ -10,5 +10,6 @@ setup(
         "flask",
         "requests",
         "python-dotenv",
+        "argon2-cffi",
     ],
 )
